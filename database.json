@@ -1,0 +1,1349 @@
+{
+  "users": [
+    {
+      "id": "usr_student_1",
+      "name": "Alex Chen",
+      "email": "alex@student.edu",
+      "password": "password123",
+      "role": "student",
+      "createdAt": "2026-08-01T10:00:00.000Z"
+    },
+    {
+      "id": "usr_student_2",
+      "name": "Riya Sharma",
+      "email": "riya@student.edu",
+      "password": "password123",
+      "role": "student",
+      "createdAt": "2026-08-02T10:00:00.000Z"
+    },
+    {
+      "id": "usr_student_3",
+      "name": "Karthik Raja",
+      "email": "karthik@student.edu",
+      "password": "password123",
+      "role": "student",
+      "createdAt": "2026-08-03T10:00:00.000Z"
+    },
+    {
+      "id": "usr_student_4",
+      "name": "Ananya Patel",
+      "email": "ananya@student.edu",
+      "password": "password123",
+      "role": "student",
+      "createdAt": "2026-08-04T10:00:00.000Z"
+    },
+    {
+      "id": "usr_student_5",
+      "name": "David Miller",
+      "email": "david@student.edu",
+      "password": "password123",
+      "role": "student",
+      "createdAt": "2026-08-05T10:00:00.000Z"
+    },
+    {
+      "id": "usr_student_6",
+      "name": "Priya Venkatesh",
+      "email": "priya@student.edu",
+      "password": "password123",
+      "role": "student",
+      "createdAt": "2026-08-06T10:00:00.000Z"
+    },
+    {
+      "id": "usr_student_7",
+      "name": "Rohan Gupta",
+      "email": "rohan@student.edu",
+      "password": "password123",
+      "role": "student",
+      "createdAt": "2026-08-07T10:00:00.000Z"
+    },
+    {
+      "id": "usr_student_8",
+      "name": "Sneha Reddy",
+      "email": "sneha@student.edu",
+      "password": "password123",
+      "role": "student",
+      "createdAt": "2026-08-08T10:00:00.000Z"
+    },
+    {
+      "id": "usr_student_9",
+      "name": "Vikram Malhotra",
+      "email": "vikram@student.edu",
+      "password": "password123",
+      "role": "student",
+      "createdAt": "2026-08-09T10:00:00.000Z"
+    },
+    {
+      "id": "usr_student_10",
+      "name": "Kavya Sundaram",
+      "email": "kavya@student.edu",
+      "password": "password123",
+      "role": "student",
+      "createdAt": "2026-08-10T10:00:00.000Z"
+    },
+    {
+      "id": "usr_company_1",
+      "name": "SiliconEdge Systems",
+      "email": "hr@siliconedge.com",
+      "password": "password123",
+      "role": "company",
+      "createdAt": "2026-07-15T10:00:00.000Z"
+    },
+    {
+      "id": "usr_company_2",
+      "name": "NeuralX AI",
+      "email": "careers@neuralx.ai",
+      "password": "password123",
+      "role": "company",
+      "createdAt": "2026-07-16T10:00:00.000Z"
+    },
+    {
+      "id": "usr_company_3",
+      "name": "ByteWave Tech",
+      "email": "jobs@bytewave.com",
+      "password": "password123",
+      "role": "company",
+      "createdAt": "2026-07-17T10:00:00.000Z"
+    },
+    {
+      "id": "usr_company_4",
+      "name": "Apex Robotics",
+      "email": "talent@apexrobotics.io",
+      "password": "password123",
+      "role": "company",
+      "createdAt": "2026-07-18T10:00:00.000Z"
+    },
+    {
+      "id": "usr_company_5",
+      "name": "BuildTech Infrastructure",
+      "email": "hr@buildtech.com",
+      "password": "password123",
+      "role": "company",
+      "createdAt": "2026-07-19T10:00:00.000Z"
+    },
+    {
+      "id": "usr_company_6",
+      "name": "PowerGrid Smart Energy",
+      "email": "careers@powergrid.org",
+      "password": "password123",
+      "role": "company",
+      "createdAt": "2026-07-20T10:00:00.000Z"
+    },
+    {
+      "id": "usr_company_7",
+      "name": "CircuitWorks VLSI",
+      "email": "recruiting@circuitworks.com",
+      "password": "password123",
+      "role": "company",
+      "createdAt": "2026-07-21T10:00:00.000Z"
+    },
+    {
+      "id": "usr_company_8",
+      "name": "DataMind Intelligence",
+      "email": "contact@datamind.ai",
+      "password": "password123",
+      "role": "company",
+      "createdAt": "2026-07-22T10:00:00.000Z"
+    },
+    {
+      "id": "usr_company_9",
+      "name": "CyberShield Security",
+      "email": "careers@cybershield.io",
+      "password": "password123",
+      "role": "company",
+      "createdAt": "2026-07-23T10:00:00.000Z"
+    },
+    {
+      "id": "usr_company_10",
+      "name": "GreenPulse Mobility",
+      "email": "hr@greenpulse.com",
+      "password": "password123",
+      "role": "company",
+      "createdAt": "2026-07-24T10:00:00.000Z"
+    },
+    {
+      "id": "usr_admin_1",
+      "name": "System Admin",
+      "email": "admin@internmatch.ai",
+      "password": "admin123",
+      "role": "admin",
+      "createdAt": "2026-01-01T00:00:00.000Z"
+    }
+  ],
+  "student_profiles": [
+    {
+      "user_id": "usr_student_1",
+      "college": "Stanford Institute of Technology",
+      "branch": "ECE",
+      "year": "3rd Year",
+      "CGPA": "8.9",
+      "skills": [
+        "C",
+        "C++",
+        "Python",
+        "Embedded Systems",
+        "IoT",
+        "ARM Cortex",
+        "RTOS",
+        "Verilog"
+      ],
+      "interests": [
+        "Embedded Systems",
+        "IoT",
+        "Robotics",
+        "VLSI"
+      ],
+      "location": "San Jose, CA",
+      "resume": "alex_chen_resume.pdf"
+    },
+    {
+      "user_id": "usr_student_2",
+      "college": "MIT College of Engineering",
+      "branch": "CSE",
+      "year": "4th Year",
+      "CGPA": "9.2",
+      "skills": [
+        "Python",
+        "Java",
+        "Web Development",
+        "React",
+        "Node.js",
+        "AI/ML",
+        "PyTorch",
+        "SQL"
+      ],
+      "interests": [
+        "AI/ML",
+        "Web Development",
+        "Data Science"
+      ],
+      "location": "Boston, MA",
+      "resume": "riya_sharma_resume.pdf"
+    },
+    {
+      "user_id": "usr_student_3",
+      "college": "Indian Institute of Science & Tech",
+      "branch": "EEE",
+      "year": "3rd Year",
+      "CGPA": "8.6",
+      "skills": [
+        "MATLAB",
+        "Simulink",
+        "Power Electronics",
+        "C++",
+        "Embedded Systems",
+        "IoT",
+        "PLC"
+      ],
+      "interests": [
+        "Smart Grid",
+        "Embedded Systems",
+        "Renewable Energy"
+      ],
+      "location": "Austin, TX",
+      "resume": "karthik_raja_resume.pdf"
+    },
+    {
+      "user_id": "usr_student_4",
+      "college": "California State University",
+      "branch": "AI/ML",
+      "year": "4th Year",
+      "CGPA": "9.4",
+      "skills": [
+        "Python",
+        "TensorFlow",
+        "PyTorch",
+        "OpenCV",
+        "Scikit-Learn",
+        "C++",
+        "Data Science"
+      ],
+      "interests": [
+        "AI/ML",
+        "Computer Vision",
+        "Deep Learning"
+      ],
+      "location": "San Francisco, CA",
+      "resume": "ananya_patel_resume.pdf"
+    },
+    {
+      "user_id": "usr_student_5",
+      "college": "Georgia Tech",
+      "branch": "Mechanical",
+      "year": "3rd Year",
+      "CGPA": "8.3",
+      "skills": [
+        "SolidWorks",
+        "AutoCAD",
+        "ANSYS",
+        "Python",
+        "Robotics",
+        "Mechatronics",
+        "C++"
+      ],
+      "interests": [
+        "Robotics",
+        "Mechatronics",
+        "Automotive Design"
+      ],
+      "location": "Atlanta, GA",
+      "resume": "david_miller_resume.pdf"
+    },
+    {
+      "user_id": "usr_student_6",
+      "college": "Carnegie Mellon University",
+      "branch": "ECE",
+      "year": "4th Year",
+      "CGPA": "9.0",
+      "skills": [
+        "Verilog",
+        "VHDL",
+        "FPGA",
+        "Cadence",
+        "SystemVerilog",
+        "C++",
+        "VLSI",
+        "Embedded Systems"
+      ],
+      "interests": [
+        "VLSI",
+        "Chip Design",
+        "Embedded Systems"
+      ],
+      "location": "Pittsburgh, PA",
+      "resume": "priya_v_resume.pdf"
+    },
+    {
+      "user_id": "usr_student_7",
+      "college": "Purdue University",
+      "branch": "Civil",
+      "year": "3rd Year",
+      "CGPA": "8.1",
+      "skills": [
+        "AutoCAD",
+        "STAAD Pro",
+        "Revit",
+        "Surveying",
+        "GIS",
+        "Project Management"
+      ],
+      "interests": [
+        "Structural Engineering",
+        "Infrastructure",
+        "Smart Cities"
+      ],
+      "location": "Chicago, IL",
+      "resume": "rohan_gupta_resume.pdf"
+    },
+    {
+      "user_id": "usr_student_8",
+      "college": "UT Austin",
+      "branch": "CSE",
+      "year": "3rd Year",
+      "CGPA": "8.8",
+      "skills": [
+        "Cybersecurity",
+        "Python",
+        "Ethical Hacking",
+        "Linux",
+        "Wireshark",
+        "C/C++",
+        "Docker"
+      ],
+      "interests": [
+        "Cybersecurity",
+        "Cloud Security",
+        "DevOps"
+      ],
+      "location": "Dallas, TX",
+      "resume": "sneha_reddy_resume.pdf"
+    },
+    {
+      "user_id": "usr_student_9",
+      "college": "University of Michigan",
+      "branch": "Embedded Systems",
+      "year": "4th Year",
+      "CGPA": "9.1",
+      "skills": [
+        "Embedded C",
+        "Microcontrollers",
+        "STM32",
+        "CAN Protocol",
+        "FreeRTOS",
+        "Python",
+        "IoT"
+      ],
+      "interests": [
+        "Embedded Systems",
+        "Automotive Electronics",
+        "IoT"
+      ],
+      "location": "Detroit, MI",
+      "resume": "vikram_m_resume.pdf"
+    },
+    {
+      "user_id": "usr_student_10",
+      "college": "Cornell Engineering",
+      "branch": "IoT",
+      "year": "3rd Year",
+      "CGPA": "8.7",
+      "skills": [
+        "ESP32",
+        "Arduino",
+        "MQTT",
+        "Python",
+        "Raspberry Pi",
+        "Node.js",
+        "C++",
+        "Sensors"
+      ],
+      "interests": [
+        "IoT",
+        "Smart Automation",
+        "Edge Computing"
+      ],
+      "location": "New York, NY",
+      "resume": "kavya_s_resume.pdf"
+    }
+  ],
+  "companies": [
+    {
+      "company_id": "comp_1",
+      "user_id": "usr_company_1",
+      "company_name": "SiliconEdge Systems",
+      "description": "Leading semiconductor and embedded solutions company specializing in microcontrollers, edge IoT devices, and firmware engineering.",
+      "website": "https://siliconedge.com",
+      "location": "San Jose, CA",
+      "logo": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=150&auto=format&fit=crop&q=80"
+    },
+    {
+      "company_id": "comp_2",
+      "user_id": "usr_company_2",
+      "company_name": "NeuralX AI",
+      "description": "Cutting-edge artificial intelligence lab creating deep learning models for industrial automation and autonomous robotics.",
+      "website": "https://neuralx.ai",
+      "location": "San Francisco, CA",
+      "logo": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=150&auto=format&fit=crop&q=80"
+    },
+    {
+      "company_id": "comp_3",
+      "user_id": "usr_company_3",
+      "company_name": "ByteWave Tech",
+      "description": "Global cloud platform and web software company crafting next-generation web platforms and microservices.",
+      "website": "https://bytewave.com",
+      "location": "Boston, MA",
+      "logo": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=150&auto=format&fit=crop&q=80"
+    },
+    {
+      "company_id": "comp_4",
+      "user_id": "usr_company_4",
+      "company_name": "Apex Robotics",
+      "description": "Building autonomous mobile robots for smart logistics, mechatronics applications, and industrial automation.",
+      "website": "https://apexrobotics.io",
+      "location": "Atlanta, GA",
+      "logo": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=150&auto=format&fit=crop&q=80"
+    },
+    {
+      "company_id": "comp_5",
+      "user_id": "usr_company_5",
+      "company_name": "BuildTech Infrastructure",
+      "description": "Smart infrastructure firm integrating civil engineering, CAD modeling, and green structural engineering.",
+      "website": "https://buildtech.com",
+      "location": "Chicago, IL",
+      "logo": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=150&auto=format&fit=crop&q=80"
+    },
+    {
+      "company_id": "comp_6",
+      "user_id": "usr_company_6",
+      "company_name": "PowerGrid Smart Energy",
+      "description": "Innovators in high-voltage power electronics, smart grid power distribution, and renewable energy storage.",
+      "website": "https://powergrid.org",
+      "location": "Austin, TX",
+      "logo": "https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?w=150&auto=format&fit=crop&q=80"
+    },
+    {
+      "company_id": "comp_7",
+      "user_id": "usr_company_7",
+      "company_name": "CircuitWorks VLSI",
+      "description": "Premier chip design and ASIC verification consultancy building low-power integrated circuits.",
+      "website": "https://circuitworks.com",
+      "location": "Pittsburgh, PA",
+      "logo": "https://images.unsplash.com/photo-1517077304055-6e89abbf09b0?w=150&auto=format&fit=crop&q=80"
+    },
+    {
+      "company_id": "comp_8",
+      "user_id": "usr_company_8",
+      "company_name": "DataMind Intelligence",
+      "description": "Enterprise predictive analytics and big data processing company empowering Fortune 500 decisions.",
+      "website": "https://datamind.ai",
+      "location": "Seattle, WA",
+      "logo": "https://images.unsplash.com/photo-1504868584819-f8e8b4b6d7e3?w=150&auto=format&fit=crop&q=80"
+    },
+    {
+      "company_id": "comp_9",
+      "user_id": "usr_company_9",
+      "company_name": "CyberShield Security",
+      "description": "Next-gen cybersecurity operations center specializing in threat intelligence, ethical penetration testing, and zero trust architecture.",
+      "website": "https://cybershield.io",
+      "location": "Dallas, TX",
+      "logo": "https://images.unsplash.com/photo-1563986768609-322da13575f3?w=150&auto=format&fit=crop&q=80"
+    },
+    {
+      "company_id": "comp_10",
+      "user_id": "usr_company_10",
+      "company_name": "GreenPulse Mobility",
+      "description": "Electric vehicle powertrain startup designing battery management systems and connected vehicle IoT telematics.",
+      "website": "https://greenpulse.com",
+      "location": "Detroit, MI",
+      "logo": "https://images.unsplash.com/photo-1558441719-67450807e989?w=150&auto=format&fit=crop&q=80"
+    }
+  ],
+  "internships": [
+    {
+      "internship_id": "int_1",
+      "company_id": "comp_1",
+      "company_name": "SiliconEdge Systems",
+      "company_logo": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=150&auto=format&fit=crop&q=80",
+      "title": "Embedded Systems Firmware Engineer Intern",
+      "description": "Join our core hardware firmware team to develop low-level C drivers, RTOS integration, and micro-controller software for next-gen IoT sensors.",
+      "skills": [
+        "Embedded C",
+        "C++",
+        "RTOS",
+        "ARM Cortex",
+        "STM32",
+        "Microcontrollers"
+      ],
+      "eligibility": "3rd or 4th Year ECE, Embedded Systems, or EEE students with strong C programming skills.",
+      "location": "San Jose, CA",
+      "work_mode": "On-site",
+      "stipend": "$3,500 / month",
+      "duration": "3 Months",
+      "deadline": "2026-09-30",
+      "status": "approved",
+      "openings": 3,
+      "branch": "ECE",
+      "posted_date": "2026-08-15"
+    },
+    {
+      "internship_id": "int_2",
+      "company_id": "comp_2",
+      "company_name": "NeuralX AI",
+      "company_logo": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=150&auto=format&fit=crop&q=80",
+      "title": "AI / ML Research & Computer Vision Intern",
+      "description": "Work alongside Senior AI Scientists to design, train, and benchmark deep learning models for real-time video understanding and edge computer vision.",
+      "skills": [
+        "Python",
+        "PyTorch",
+        "TensorFlow",
+        "OpenCV",
+        "AI/ML",
+        "C++"
+      ],
+      "eligibility": "CSE, AI/ML, or Data Science students with hands-on PyTorch or TensorFlow project experience.",
+      "location": "San Francisco, CA",
+      "work_mode": "Hybrid",
+      "stipend": "$4,200 / month",
+      "duration": "6 Months",
+      "deadline": "2026-10-15",
+      "status": "approved",
+      "openings": 2,
+      "branch": "AI/ML",
+      "posted_date": "2026-08-18"
+    },
+    {
+      "internship_id": "int_3",
+      "company_id": "comp_3",
+      "company_name": "ByteWave Tech",
+      "company_logo": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=150&auto=format&fit=crop&q=80",
+      "title": "Full-Stack Web Development Intern (React & Node)",
+      "description": "Build reactive, accessible frontend component libraries and RESTful microservices supporting over 500,000 active daily enterprise users.",
+      "skills": [
+        "Web Development",
+        "React",
+        "Node.js",
+        "JavaScript",
+        "Python",
+        "SQL"
+      ],
+      "eligibility": "CSE / IT undergraduates proficient in modern JavaScript, HTML/CSS, and backend API design.",
+      "location": "Boston, MA",
+      "work_mode": "Remote",
+      "stipend": "$3,000 / month",
+      "duration": "3 Months",
+      "deadline": "2026-09-25",
+      "status": "approved",
+      "openings": 5,
+      "branch": "CSE",
+      "posted_date": "2026-08-10"
+    },
+    {
+      "internship_id": "int_4",
+      "company_id": "comp_1",
+      "company_name": "SiliconEdge Systems",
+      "company_logo": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=150&auto=format&fit=crop&q=80",
+      "title": "IoT Systems & Smart Gateway Developer",
+      "description": "Develop secure wireless communication protocols (MQTT, BLE, Zigbee) for IoT gateways connecting smart factory sensor arrays.",
+      "skills": [
+        "IoT",
+        "Python",
+        "ESP32",
+        "MQTT",
+        "Embedded Systems",
+        "C++"
+      ],
+      "eligibility": "ECE, IoT, or CSE students who have completed hardware IoT projects using ESP32 or Raspberry Pi.",
+      "location": "San Jose, CA",
+      "work_mode": "Hybrid",
+      "stipend": "$3,200 / month",
+      "duration": "4 Months",
+      "deadline": "2026-10-01",
+      "status": "approved",
+      "openings": 4,
+      "branch": "IoT",
+      "posted_date": "2026-08-20"
+    },
+    {
+      "internship_id": "int_5",
+      "company_id": "comp_7",
+      "company_name": "CircuitWorks VLSI",
+      "company_logo": "https://images.unsplash.com/photo-1517077304055-6e89abbf09b0?w=150&auto=format&fit=crop&q=80",
+      "title": "VLSI Digital Chip Design & Verilog Intern",
+      "description": "Assist in RTL verification, timing analysis, and logic synthesis for next-generation system-on-chip (SoC) architectures.",
+      "skills": [
+        "Verilog",
+        "VHDL",
+        "VLSI",
+        "SystemVerilog",
+        "FPGA",
+        "C++"
+      ],
+      "eligibility": "ECE or Electrical students with coursework in VLSI, Digital Logic, and HDL synthesis.",
+      "location": "Pittsburgh, PA",
+      "work_mode": "On-site",
+      "stipend": "$3,800 / month",
+      "duration": "6 Months",
+      "deadline": "2026-11-01",
+      "status": "approved",
+      "openings": 2,
+      "branch": "ECE",
+      "posted_date": "2026-08-12"
+    },
+    {
+      "internship_id": "int_6",
+      "company_id": "comp_4",
+      "company_name": "Apex Robotics",
+      "company_logo": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=150&auto=format&fit=crop&q=80",
+      "title": "Autonomous Robotics & Mechatronics Intern",
+      "description": "Integrate motor drivers, LiDAR sensors, and ROS2 navigation packages onto autonomous warehouse robotics platforms.",
+      "skills": [
+        "Robotics",
+        "ROS",
+        "C++",
+        "Python",
+        "SolidWorks",
+        "Mechatronics"
+      ],
+      "eligibility": "Mechanical, EEE, ECE, or Robotics students with mechanical CAD or ROS software experience.",
+      "location": "Atlanta, GA",
+      "work_mode": "On-site",
+      "stipend": "$3,600 / month",
+      "duration": "4 Months",
+      "deadline": "2026-10-10",
+      "status": "approved",
+      "openings": 3,
+      "branch": "Mechanical",
+      "posted_date": "2026-08-14"
+    },
+    {
+      "internship_id": "int_7",
+      "company_id": "comp_6",
+      "company_name": "PowerGrid Smart Energy",
+      "company_logo": "https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?w=150&auto=format&fit=crop&q=80",
+      "title": "Smart Grid & Power Electronics Intern",
+      "description": "Design digital signal controllers and inverter simulation models for high-voltage renewable solar microgrids.",
+      "skills": [
+        "MATLAB",
+        "Simulink",
+        "Power Electronics",
+        "C++",
+        "Embedded Systems"
+      ],
+      "eligibility": "EEE or Power Engineering students with knowledge of power converters and MATLAB Simulink.",
+      "location": "Austin, TX",
+      "work_mode": "Hybrid",
+      "stipend": "$3,400 / month",
+      "duration": "3 Months",
+      "deadline": "2026-09-28",
+      "status": "approved",
+      "openings": 2,
+      "branch": "EEE",
+      "posted_date": "2026-08-16"
+    },
+    {
+      "internship_id": "int_8",
+      "company_id": "comp_5",
+      "company_name": "BuildTech Infrastructure",
+      "company_logo": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=150&auto=format&fit=crop&q=80",
+      "title": "Structural CAD & Smart Infrastructure Intern",
+      "description": "Assist structural engineering teams in 3D BIM modeling, load analysis, and environmental impact assessments for commercial high-rises.",
+      "skills": [
+        "AutoCAD",
+        "STAAD Pro",
+        "Revit",
+        "Civil Engineering",
+        "Project Management"
+      ],
+      "eligibility": "Civil Engineering students skilled in AutoCAD, Revit, or STAAD Pro.",
+      "location": "Chicago, IL",
+      "work_mode": "On-site",
+      "stipend": "$2,800 / month",
+      "duration": "3 Months",
+      "deadline": "2026-09-20",
+      "status": "approved",
+      "openings": 4,
+      "branch": "Civil",
+      "posted_date": "2026-08-05"
+    },
+    {
+      "internship_id": "int_9",
+      "company_id": "comp_8",
+      "company_name": "DataMind Intelligence",
+      "company_logo": "https://images.unsplash.com/photo-1504868584819-f8e8b4b6d7e3?w=150&auto=format&fit=crop&q=80",
+      "title": "Python Data Science & Predictive Analytics Intern",
+      "description": "Analyze large-scale telemetry data, construct data pipelines using Pandas/SQL, and publish automated visualization dashboards.",
+      "skills": [
+        "Python",
+        "SQL",
+        "Data Science",
+        "Pandas",
+        "Scikit-Learn",
+        "Tableau"
+      ],
+      "eligibility": "CSE, Statistics, or Math students with strong Python data analytics capabilities.",
+      "location": "Seattle, WA",
+      "work_mode": "Remote",
+      "stipend": "$3,300 / month",
+      "duration": "3 Months",
+      "deadline": "2026-10-05",
+      "status": "approved",
+      "openings": 3,
+      "branch": "CSE",
+      "posted_date": "2026-08-21"
+    },
+    {
+      "internship_id": "int_10",
+      "company_id": "comp_9",
+      "company_name": "CyberShield Security",
+      "company_logo": "https://images.unsplash.com/photo-1563986768609-322da13575f3?w=150&auto=format&fit=crop&q=80",
+      "title": "Cybersecurity & Vulnerability Assessment Analyst Intern",
+      "description": "Conduct automated vulnerability scanning, ethical penetration testing, and log analysis across cloud server clusters.",
+      "skills": [
+        "Cybersecurity",
+        "Ethical Hacking",
+        "Linux",
+        "Python",
+        "Wireshark",
+        "Docker"
+      ],
+      "eligibility": "CSE, Cybersecurity, or IT students with solid understanding of TCP/IP protocols and Linux security.",
+      "location": "Dallas, TX",
+      "work_mode": "Hybrid",
+      "stipend": "$3,600 / month",
+      "duration": "6 Months",
+      "deadline": "2026-10-20",
+      "status": "approved",
+      "openings": 2,
+      "branch": "CSE",
+      "posted_date": "2026-08-11"
+    },
+    {
+      "internship_id": "int_11",
+      "company_id": "comp_10",
+      "company_name": "GreenPulse Mobility",
+      "company_logo": "https://images.unsplash.com/photo-1558441719-67450807e989?w=150&auto=format&fit=crop&q=80",
+      "title": "EV Battery Management System (BMS) Firmware Intern",
+      "description": "Program microcontroller firmware (CAN protocol, SPI) for electric vehicle battery health tracking and thermal management.",
+      "skills": [
+        "Embedded C",
+        "CAN Protocol",
+        "Microcontrollers",
+        "Embedded Systems",
+        "IoT",
+        "C++"
+      ],
+      "eligibility": "ECE, EEE, or Embedded Systems engineering students passionate about electric mobility.",
+      "location": "Detroit, MI",
+      "work_mode": "On-site",
+      "stipend": "$3,700 / month",
+      "duration": "4 Months",
+      "deadline": "2026-10-12",
+      "status": "approved",
+      "openings": 3,
+      "branch": "Embedded Systems",
+      "posted_date": "2026-08-17"
+    },
+    {
+      "internship_id": "int_12",
+      "company_id": "comp_2",
+      "company_name": "NeuralX AI",
+      "company_logo": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=150&auto=format&fit=crop&q=80",
+      "title": "Edge AI & Model Optimization Engineer Intern",
+      "description": "Quantize and optimize large neural networks for microcontrollers and edge hardware accelerators using TensorRT and ONNX.",
+      "skills": [
+        "AI/ML",
+        "Python",
+        "PyTorch",
+        "C++",
+        "Embedded Systems",
+        "OpenCV"
+      ],
+      "eligibility": "AI/ML, CSE, or ECE students interested in neural network compression and embedded AI deployment.",
+      "location": "San Francisco, CA",
+      "work_mode": "Remote",
+      "stipend": "$4,500 / month",
+      "duration": "6 Months",
+      "deadline": "2026-11-15",
+      "status": "approved",
+      "openings": 2,
+      "branch": "AI/ML",
+      "posted_date": "2026-08-22"
+    },
+    {
+      "internship_id": "int_13",
+      "company_id": "comp_3",
+      "company_name": "ByteWave Tech",
+      "company_logo": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=150&auto=format&fit=crop&q=80",
+      "title": "React Frontend Engineer Intern",
+      "description": "Design pixel-perfect, accessible React dashboards with Tailwind CSS and stateful component architecture.",
+      "skills": [
+        "Web Development",
+        "React",
+        "JavaScript",
+        "Tailwind CSS",
+        "HTML/CSS"
+      ],
+      "eligibility": "CSE, IT, or design-minded students with strong React UI portfolios.",
+      "location": "Boston, MA",
+      "work_mode": "Remote",
+      "stipend": "$3,100 / month",
+      "duration": "3 Months",
+      "deadline": "2026-09-30",
+      "status": "approved",
+      "openings": 4,
+      "branch": "CSE",
+      "posted_date": "2026-08-19"
+    },
+    {
+      "internship_id": "int_14",
+      "company_id": "comp_7",
+      "company_name": "CircuitWorks VLSI",
+      "company_logo": "https://images.unsplash.com/photo-1517077304055-6e89abbf09b0?w=150&auto=format&fit=crop&q=80",
+      "title": "Digital Signal Processing (DSP) Algorithm Intern",
+      "description": "Develop MATLAB and C code implementations for high-speed wireless digital signal filters and baseband algorithms.",
+      "skills": [
+        "C",
+        "C++",
+        "MATLAB",
+        "DSP",
+        "Verilog",
+        "ECE"
+      ],
+      "eligibility": "ECE or Electrical Engineering students with high proficiency in DSP theory.",
+      "location": "Pittsburgh, PA",
+      "work_mode": "Hybrid",
+      "stipend": "$3,500 / month",
+      "duration": "4 Months",
+      "deadline": "2026-10-08",
+      "status": "approved",
+      "openings": 2,
+      "branch": "ECE",
+      "posted_date": "2026-08-13"
+    },
+    {
+      "internship_id": "int_15",
+      "company_id": "comp_4",
+      "company_name": "Apex Robotics",
+      "company_logo": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=150&auto=format&fit=crop&q=80",
+      "title": "Mechanical Simulation & ANSYS Design Intern",
+      "description": "Perform structural finite element analysis (FEA) and thermal modeling for robotic end-effectors and robotic joints.",
+      "skills": [
+        "SolidWorks",
+        "ANSYS",
+        "AutoCAD",
+        "Mechanical",
+        "FEA"
+      ],
+      "eligibility": "Mechanical Engineering students with coursework in FEA and SolidWorks simulation.",
+      "location": "Atlanta, GA",
+      "work_mode": "On-site",
+      "stipend": "$3,000 / month",
+      "duration": "3 Months",
+      "deadline": "2026-09-22",
+      "status": "approved",
+      "openings": 3,
+      "branch": "Mechanical",
+      "posted_date": "2026-08-08"
+    },
+    {
+      "internship_id": "int_16",
+      "company_id": "comp_6",
+      "company_name": "PowerGrid Smart Energy",
+      "company_logo": "https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?w=150&auto=format&fit=crop&q=80",
+      "title": "Power System Protection & Relay Engineer Intern",
+      "description": "Analyze power transmission fault records and program protective relay settings for high-voltage substations.",
+      "skills": [
+        "MATLAB",
+        "EEE",
+        "Power Systems",
+        "PLC",
+        "Electrical Engineering"
+      ],
+      "eligibility": "EEE or Power Systems students familiar with electrical protection and relays.",
+      "location": "Austin, TX",
+      "work_mode": "On-site",
+      "stipend": "$3,100 / month",
+      "duration": "3 Months",
+      "deadline": "2026-09-29",
+      "status": "approved",
+      "openings": 2,
+      "branch": "EEE",
+      "posted_date": "2026-08-09"
+    },
+    {
+      "internship_id": "int_17",
+      "company_id": "comp_5",
+      "company_name": "BuildTech Infrastructure",
+      "company_logo": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=150&auto=format&fit=crop&q=80",
+      "title": "GIS & Urban Transportation Planning Intern",
+      "description": "Utilize GIS mapping software and civil engineering principles to optimize municipal traffic and stormwater drainage networks.",
+      "skills": [
+        "GIS",
+        "AutoCAD",
+        "Civil Engineering",
+        "Python",
+        "Data Analysis"
+      ],
+      "eligibility": "Civil or Transportation Engineering students skilled in GIS software.",
+      "location": "Chicago, IL",
+      "work_mode": "Hybrid",
+      "stipend": "$2,900 / month",
+      "duration": "4 Months",
+      "deadline": "2026-10-02",
+      "status": "approved",
+      "openings": 3,
+      "branch": "Civil",
+      "posted_date": "2026-08-07"
+    },
+    {
+      "internship_id": "int_18",
+      "company_id": "comp_10",
+      "company_name": "GreenPulse Mobility",
+      "company_logo": "https://images.unsplash.com/photo-1558441719-67450807e989?w=150&auto=format&fit=crop&q=80",
+      "title": "EV Telematics & Cloud IoT Engineer Intern",
+      "description": "Connect vehicle CAN bus data to cloud IoT MQTT brokers and build live dashboard streams for fleet telematics.",
+      "skills": [
+        "IoT",
+        "Python",
+        "MQTT",
+        "Node.js",
+        "CAN Protocol",
+        "Embedded Systems"
+      ],
+      "eligibility": "IoT, ECE, or CSE students experienced with MQTT and telemetry protocols.",
+      "location": "Detroit, MI",
+      "work_mode": "Remote",
+      "stipend": "$3,400 / month",
+      "duration": "3 Months",
+      "deadline": "2026-09-27",
+      "status": "approved",
+      "openings": 2,
+      "branch": "IoT",
+      "posted_date": "2026-08-18"
+    },
+    {
+      "internship_id": "int_19",
+      "company_id": "comp_8",
+      "company_name": "DataMind Intelligence",
+      "company_logo": "https://images.unsplash.com/photo-1504868584819-f8e8b4b6d7e3?w=150&auto=format&fit=crop&q=80",
+      "title": "NLP & Generative AI Systems Intern",
+      "description": "Fine-tune open-source Large Language Models (LLMs) and build Retrieval-Augmented Generation (RAG) pipelines for customer intelligence.",
+      "skills": [
+        "Python",
+        "AI/ML",
+        "PyTorch",
+        "NLP",
+        "LangChain",
+        "Vector DB"
+      ],
+      "eligibility": "CSE or AI/ML students with projects involving NLP or LLM API integrations.",
+      "location": "Seattle, WA",
+      "work_mode": "Remote",
+      "stipend": "$4,600 / month",
+      "duration": "6 Months",
+      "deadline": "2026-11-20",
+      "status": "approved",
+      "openings": 2,
+      "branch": "AI/ML",
+      "posted_date": "2026-08-23"
+    },
+    {
+      "internship_id": "int_20",
+      "company_id": "comp_9",
+      "company_name": "CyberShield Security",
+      "company_logo": "https://images.unsplash.com/photo-1563986768609-322da13575f3?w=150&auto=format&fit=crop&q=80",
+      "title": "Cloud DevSecOps & Security Automation Intern",
+      "description": "Write automated security policy scripts, scan container images, and configure CI/CD pipeline security gates.",
+      "skills": [
+        "Cybersecurity",
+        "Python",
+        "Linux",
+        "Docker",
+        "DevOps",
+        "C/C++"
+      ],
+      "eligibility": "CSE or Cybersecurity students proficient in Linux scripting and containerization.",
+      "location": "Dallas, TX",
+      "work_mode": "Remote",
+      "stipend": "$3,500 / month",
+      "duration": "4 Months",
+      "deadline": "2026-10-18",
+      "status": "pending",
+      "openings": 3,
+      "branch": "CSE",
+      "posted_date": "2026-08-25"
+    }
+  ],
+  "applications": [
+    {
+      "application_id": "app_1",
+      "student_id": "usr_student_1",
+      "student_name": "Alex Chen",
+      "student_email": "alex@student.edu",
+      "student_branch": "ECE",
+      "internship_id": "int_1",
+      "internship_title": "Embedded Systems Firmware Engineer Intern",
+      "company_id": "comp_1",
+      "company_name": "SiliconEdge Systems",
+      "applied_date": "2026-08-16",
+      "status": "Shortlisted",
+      "match_score": 95,
+      "cover_letter": "I have 2 years of hands-on experience programming STM32 microcontrollers in C and RTOS. I would love to contribute to SiliconEdge's sensor team."
+    },
+    {
+      "application_id": "app_2",
+      "student_id": "usr_student_1",
+      "student_name": "Alex Chen",
+      "student_email": "alex@student.edu",
+      "student_branch": "ECE",
+      "internship_id": "int_4",
+      "internship_title": "IoT Systems & Smart Gateway Developer",
+      "company_id": "comp_1",
+      "company_name": "SiliconEdge Systems",
+      "applied_date": "2026-08-21",
+      "status": "Interview",
+      "match_score": 92,
+      "cover_letter": "My senior project involves ESP32 MQTT gateways communicating over BLE. This aligns perfectly with your IoT gateway post."
+    },
+    {
+      "application_id": "app_3",
+      "student_id": "usr_student_2",
+      "student_name": "Riya Sharma",
+      "student_email": "riya@student.edu",
+      "student_branch": "CSE",
+      "internship_id": "int_3",
+      "internship_title": "Full-Stack Web Development Intern (React & Node)",
+      "company_id": "comp_3",
+      "company_name": "ByteWave Tech",
+      "applied_date": "2026-08-12",
+      "status": "Selected",
+      "match_score": 96,
+      "cover_letter": "I built multiple React web apps and microservices with Express. Excited for the opportunity!"
+    },
+    {
+      "application_id": "app_4",
+      "student_id": "usr_student_2",
+      "student_name": "Riya Sharma",
+      "student_email": "riya@student.edu",
+      "student_branch": "CSE",
+      "internship_id": "int_2",
+      "internship_title": "AI / ML Research & Computer Vision Intern",
+      "company_id": "comp_2",
+      "company_name": "NeuralX AI",
+      "applied_date": "2026-08-19",
+      "status": "Under Review",
+      "match_score": 88,
+      "cover_letter": "Passionate about computer vision models and PyTorch deployment."
+    },
+    {
+      "application_id": "app_5",
+      "student_id": "usr_student_3",
+      "student_name": "Karthik Raja",
+      "student_email": "karthik@student.edu",
+      "student_branch": "EEE",
+      "internship_id": "int_7",
+      "internship_title": "Smart Grid & Power Electronics Intern",
+      "company_id": "comp_6",
+      "company_name": "PowerGrid Smart Energy",
+      "applied_date": "2026-08-17",
+      "status": "Shortlisted",
+      "match_score": 94,
+      "cover_letter": "Specialized in MATLAB Simulink power inverter modeling."
+    },
+    {
+      "application_id": "app_6",
+      "student_id": "usr_student_4",
+      "student_name": "Ananya Patel",
+      "student_email": "ananya@student.edu",
+      "student_branch": "AI/ML",
+      "internship_id": "int_2",
+      "internship_title": "AI / ML Research & Computer Vision Intern",
+      "company_id": "comp_2",
+      "company_name": "NeuralX AI",
+      "applied_date": "2026-08-18",
+      "status": "Interview",
+      "match_score": 98,
+      "cover_letter": "Published OpenCV computer vision paper and 9.4 CGPA in AI/ML."
+    },
+    {
+      "application_id": "app_7",
+      "student_id": "usr_student_4",
+      "student_name": "Ananya Patel",
+      "student_email": "ananya@student.edu",
+      "student_branch": "AI/ML",
+      "internship_id": "int_12",
+      "internship_title": "Edge AI & Model Optimization Engineer Intern",
+      "company_id": "comp_2",
+      "company_name": "NeuralX AI",
+      "applied_date": "2026-08-23",
+      "status": "Applied",
+      "match_score": 91,
+      "cover_letter": "Experience in TensorRT quantization and PyTorch C++ extensions."
+    },
+    {
+      "application_id": "app_8",
+      "student_id": "usr_student_5",
+      "student_name": "David Miller",
+      "student_email": "david@student.edu",
+      "student_branch": "Mechanical",
+      "internship_id": "int_6",
+      "internship_title": "Autonomous Robotics & Mechatronics Intern",
+      "company_id": "comp_4",
+      "company_name": "Apex Robotics",
+      "applied_date": "2026-08-15",
+      "status": "Shortlisted",
+      "match_score": 89,
+      "cover_letter": "Background in SolidWorks CAD design and motor kinematics."
+    },
+    {
+      "application_id": "app_9",
+      "student_id": "usr_student_6",
+      "student_name": "Priya Venkatesh",
+      "student_email": "priya@student.edu",
+      "student_branch": "ECE",
+      "internship_id": "int_5",
+      "internship_title": "VLSI Digital Chip Design & Verilog Intern",
+      "company_id": "comp_7",
+      "company_name": "CircuitWorks VLSI",
+      "applied_date": "2026-08-14",
+      "status": "Interview",
+      "match_score": 97,
+      "cover_letter": "Proficient in SystemVerilog RTL design and Cadence Virtuoso tools."
+    },
+    {
+      "application_id": "app_10",
+      "student_id": "usr_student_7",
+      "student_name": "Rohan Gupta",
+      "student_email": "rohan@student.edu",
+      "student_branch": "Civil",
+      "internship_id": "int_8",
+      "internship_title": "Structural CAD & Smart Infrastructure Intern",
+      "company_id": "comp_5",
+      "company_name": "BuildTech Infrastructure",
+      "applied_date": "2026-08-08",
+      "status": "Under Review",
+      "match_score": 85,
+      "cover_letter": "Completed structural STAAD Pro analysis project for high-rise buildings."
+    },
+    {
+      "application_id": "app_11",
+      "student_id": "usr_student_8",
+      "student_name": "Sneha Reddy",
+      "student_email": "sneha@student.edu",
+      "student_branch": "CSE",
+      "internship_id": "int_10",
+      "internship_title": "Cybersecurity & Vulnerability Assessment Analyst Intern",
+      "company_id": "comp_9",
+      "company_name": "CyberShield Security",
+      "applied_date": "2026-08-13",
+      "status": "Shortlisted",
+      "match_score": 93,
+      "cover_letter": "Hands-on Linux Wireshark and network security scanner experience."
+    },
+    {
+      "application_id": "app_12",
+      "student_id": "usr_student_9",
+      "student_name": "Vikram Malhotra",
+      "student_email": "vikram@student.edu",
+      "student_branch": "Embedded Systems",
+      "internship_id": "int_11",
+      "internship_title": "EV Battery Management System (BMS) Firmware Intern",
+      "company_id": "comp_10",
+      "company_name": "GreenPulse Mobility",
+      "applied_date": "2026-08-18",
+      "status": "Applied",
+      "match_score": 94,
+      "cover_letter": "Built FreeRTOS automotive firmware with CAN protocol communication."
+    },
+    {
+      "application_id": "app_13",
+      "student_id": "usr_student_10",
+      "student_name": "Kavya Sundaram",
+      "student_email": "kavya@student.edu",
+      "student_branch": "IoT",
+      "internship_id": "int_4",
+      "internship_title": "IoT Systems & Smart Gateway Developer",
+      "company_id": "comp_1",
+      "company_name": "SiliconEdge Systems",
+      "applied_date": "2026-08-22",
+      "status": "Applied",
+      "match_score": 90,
+      "cover_letter": "Skilled in ESP32, MQTT protocols, and Raspberry Pi gateway servers."
+    },
+    {
+      "application_id": "app_14",
+      "student_id": "usr_student_1",
+      "student_name": "Alex Chen",
+      "student_email": "alex@student.edu",
+      "student_branch": "ECE",
+      "internship_id": "int_11",
+      "internship_title": "EV Battery Management System (BMS) Firmware Intern",
+      "company_id": "comp_10",
+      "company_name": "GreenPulse Mobility",
+      "applied_date": "2026-08-20",
+      "status": "Applied",
+      "match_score": 87,
+      "cover_letter": "Interested in applying C firmware and microcontroller experience to electric vehicles."
+    },
+    {
+      "application_id": "app_15",
+      "student_id": "usr_student_3",
+      "student_name": "Karthik Raja",
+      "student_email": "karthik@student.edu",
+      "student_branch": "EEE",
+      "internship_id": "int_16",
+      "internship_title": "Power System Protection & Relay Engineer Intern",
+      "company_id": "comp_6",
+      "company_name": "PowerGrid Smart Energy",
+      "applied_date": "2026-08-11",
+      "status": "Under Review",
+      "match_score": 88,
+      "cover_letter": "Strong foundation in electrical relays and power circuit protection."
+    },
+    {
+      "application_id": "app_16",
+      "student_id": "usr_student_5",
+      "student_name": "David Miller",
+      "student_email": "david@student.edu",
+      "student_branch": "Mechanical",
+      "internship_id": "int_15",
+      "internship_title": "Mechanical Simulation & ANSYS Design Intern",
+      "company_id": "comp_4",
+      "company_name": "Apex Robotics",
+      "applied_date": "2026-08-10",
+      "status": "Rejected",
+      "match_score": 72,
+      "cover_letter": "Familiar with basic CAD modeling."
+    },
+    {
+      "application_id": "app_17",
+      "student_id": "usr_student_8",
+      "student_name": "Sneha Reddy",
+      "student_email": "sneha@student.edu",
+      "student_branch": "CSE",
+      "internship_id": "int_9",
+      "internship_title": "Python Data Science & Predictive Analytics Intern",
+      "company_id": "comp_8",
+      "company_name": "DataMind Intelligence",
+      "applied_date": "2026-08-22",
+      "status": "Applied",
+      "match_score": 82,
+      "cover_letter": "Extensive Python programming experience in cybersecurity and automation scripts."
+    },
+    {
+      "application_id": "app_18",
+      "student_id": "usr_student_6",
+      "student_name": "Priya Venkatesh",
+      "student_email": "priya@student.edu",
+      "student_branch": "ECE",
+      "internship_id": "int_14",
+      "internship_title": "Digital Signal Processing (DSP) Algorithm Intern",
+      "company_id": "comp_7",
+      "company_name": "CircuitWorks VLSI",
+      "applied_date": "2026-08-15",
+      "status": "Selected",
+      "match_score": 95,
+      "cover_letter": "Deep understanding of C++ matrix math and DSP digital filtering."
+    },
+    {
+      "application_id": "app_19",
+      "student_id": "usr_student_7",
+      "student_name": "Rohan Gupta",
+      "student_email": "rohan@student.edu",
+      "student_branch": "Civil",
+      "internship_id": "int_17",
+      "internship_title": "GIS & Urban Transportation Planning Intern",
+      "company_id": "comp_5",
+      "company_name": "BuildTech Infrastructure",
+      "applied_date": "2026-08-10",
+      "status": "Shortlisted",
+      "match_score": 89,
+      "cover_letter": "Skilled in GIS spatial analytics and civil engineering transit modeling."
+    },
+    {
+      "application_id": "app_20",
+      "student_id": "usr_student_10",
+      "student_name": "Kavya Sundaram",
+      "student_email": "kavya@student.edu",
+      "student_branch": "IoT",
+      "internship_id": "int_18",
+      "internship_title": "EV Telematics & Cloud IoT Engineer Intern",
+      "company_id": "comp_10",
+      "company_name": "GreenPulse Mobility",
+      "applied_date": "2026-08-19",
+      "status": "Interview",
+      "match_score": 96,
+      "cover_letter": "Passionate about connected vehicles, MQTT telemetry, and cloud IoT platforms."
+    }
+  ],
+  "saved_internships": [
+    {
+      "student_id": "usr_student_1",
+      "internship_id": "int_1"
+    },
+    {
+      "student_id": "usr_student_1",
+      "internship_id": "int_2"
+    },
+    {
+      "student_id": "usr_student_1",
+      "internship_id": "int_5"
+    },
+    {
+      "student_id": "usr_student_2",
+      "internship_id": "int_3"
+    },
+    {
+      "student_id": "usr_student_2",
+      "internship_id": "int_9"
+    },
+    {
+      "student_id": "usr_student_4",
+      "internship_id": "int_2"
+    },
+    {
+      "student_id": "usr_student_4",
+      "internship_id": "int_19"
+    }
+  ],
+  "resumes": []
+}
